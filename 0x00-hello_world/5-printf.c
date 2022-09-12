@@ -1,10 +1,9 @@
 #include <stdio.h>
 
 /**
-* main - print the string in the put function 
+* main - Entry point 
 * 
-* Description: using the main function
-* Return: 0
+* Return: Always 0 (Success) 
 */
 int main(void)
 {
